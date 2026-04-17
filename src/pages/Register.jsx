@@ -7,6 +7,7 @@ const Register = () => {
     e.preventDefault();
     // Intended future logic here
   };
+  
 
   return (
     <div className="auth-container">
